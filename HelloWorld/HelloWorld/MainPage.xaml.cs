@@ -27,9 +27,13 @@ namespace HelloWorld
             this.InitializeComponent();
         }
 
-        private void btn_Hello_Click(object sender, RoutedEventArgs e)
+        private async void btn_Hello_Click(object sender, RoutedEventArgs e)
         {
-
+            MediaElement mediaElement = new MediaElement();
+            var synth = new Windows.Media.SpeechSynthesis.SpeechSynthesizer();
+            Windows.Media.SpeechSynthesis.SpeechSynthesisStream stream = await synth.SynthesizeTextToStreamAsync("Hello, World!");
+            mediaElement.SetSource(stream, stream.ContentType);
+            mediaElement.Play();
         }
     }
 }

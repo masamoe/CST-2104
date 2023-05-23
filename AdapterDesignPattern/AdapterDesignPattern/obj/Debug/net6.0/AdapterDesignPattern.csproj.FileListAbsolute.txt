@@ -1,0 +1,15 @@
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.exe
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.deps.json
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.runtimeconfig.json
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.dll
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.pdb
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfo.cs
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.dll
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\refint\AdapterDesignPattern.dll
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache
+D:\000401934\Documents\GitHub\CST-2104\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll

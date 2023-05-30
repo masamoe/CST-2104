@@ -119,11 +119,14 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="calc_BMI.xaml.cs">
-      <DependentUpon>calc_BMI.xaml</DependentUpon>
+    <Compile Include="page_1.xaml.cs">
+      <DependentUpon>page_1.xaml</DependentUpon>
     </Compile>
-    <Compile Include="calc_Tip.xaml.cs">
-      <DependentUpon>calc_Tip.xaml</DependentUpon>
+    <Compile Include="page_3.xaml.cs">
+      <DependentUpon>page_3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="page_2.xaml.cs">
+      <DependentUpon>page_2.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -150,11 +153,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Page Include="calc_BMI.xaml">
+    <Page Include="page_1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="calc_Tip.xaml">
+    <Page Include="page_3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="page_2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

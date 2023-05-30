@@ -9,9 +9,10 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="860" Height="645">
 
     <Grid>
-        <Button x:Name="btn_BMI" Content="BMI" Margin="0,321,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Click="btn_BMI_Click"/>
-        <Button x:Name="btn_Tip" Content="Tip" Margin="0,413,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Click="btn_Tip_Click"/>
-        <TextBlock HorizontalAlignment="Center" Margin="0,180,0,0" TextWrapping="Wrap" Text="Calculators!" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Button x:Name="btn_PG1" Content="Page 1" Margin="0,321,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Click="btn_PG1_Click"/>
+        <Button x:Name="btn_PG2" Content="Page 2" Margin="0,382,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Click="btn_PG2_Click"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,180,0,0" TextWrapping="Wrap" Text="Assignment 2" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Button x:Name="btn_PG3_Copy" Content="Page 3" Margin="0,444,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="24" Click="btn_PG3_Click"/>
 
     </Grid>
 </Page>

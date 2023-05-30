@@ -27,14 +27,19 @@ namespace Assignment1
             this.InitializeComponent();
         }
 
-        private void btn_BMI_Click(object sender, RoutedEventArgs e)
+        private void btn_PG1_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(calc_BMI));
+            this.Frame.Navigate(typeof(page_1));
         }
 
-        private void btn_Tip_Click(object sender, RoutedEventArgs e)
+        private void btn_PG2_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(calc_Tip));
+            this.Frame.Navigate(typeof(page_2));
+        }
+
+        private void btn_PG3_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(page_3));
         }
     }
 }

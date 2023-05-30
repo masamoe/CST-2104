@@ -14,7 +14,7 @@
   <mp:PhoneIdentity PhoneProductId="d7f6e787-58f0-4cc1-acc8-7f52e841287e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Assignment1</DisplayName>
+    <DisplayName>Assignment2</DisplayName>
     <PublisherDisplayName>Jake</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="Assignment1.App">
+      EntryPoint="Assignment2.App">
       <uap:VisualElements
-        DisplayName="Assignment1"
+        DisplayName="Assignment2"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="Assignment1"
+        Description="Assignment2"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>FISHTANK</Machine>
-    <WindowsUser>Jake</WindowsUser>
+    <Machine>LAPPY</Machine>
+    <WindowsUser>jake_</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d7f6e787-58f0-4cc1-acc8-7f52e841287e</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jake</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>B1830F0CC036AED5E28F65A695A7AD8BC22FC8B60AE81CEEDF7402B3DC7FCFA8</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B43BA08FD2D3C9F9DEB92261D31F983C8BA920BCB70ED289845A1795B0C1A39A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d7f6e787-58f0-4cc1-acc8-7f52e841287e_1.0.0.0_x86__ny5wc5hp9gsbw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d7f6e787-58f0-4cc1-acc8-7f52e841287e_ny5wc5hp9gsbw!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d7f6e787-58f0-4cc1-acc8-7f52e841287e</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-05-16T17:34:22.738</Modified>
+      <Modified>2023-05-30T17:55:55.118</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\Assignment1.exe">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\Assignment1.exe">
       <PackagePath>entrypoint\Assignment1.exe</PackagePath>
-      <Modified>2023-05-16T17:34:22.283</Modified>
+      <Modified>2023-05-30T17:55:54.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -44,77 +44,81 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
-      <Modified>2022-10-19T22:28:50.000</Modified>
+      <Modified>2022-10-19T21:28:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2023-05-16T16:41:59.005</Modified>
+      <Modified>2023-05-30T16:53:03.268</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2023-02-27T22:49:08.114</Modified>
+      <Modified>2023-05-30T16:53:03.049</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.115</Modified>
+      <Modified>2023-05-30T16:53:03.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.116</Modified>
+      <Modified>2023-05-30T16:53:03.096</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.116</Modified>
+      <Modified>2023-05-30T16:53:03.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.116</Modified>
+      <Modified>2023-05-30T16:53:03.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.117</Modified>
+      <Modified>2023-05-30T16:53:03.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-02-27T22:49:08.117</Modified>
+      <Modified>2023-05-30T16:53:03.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\Assignment1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\Assignment1.xr.xml">
       <PackagePath>Assignment1.xr.xml</PackagePath>
-      <Modified>2023-05-16T17:23:53.337</Modified>
+      <Modified>2023-05-30T17:49:49.706</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-05-16T17:34:22.242</Modified>
+      <Modified>2023-05-30T17:55:54.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\calc_BMI.xbf">
-      <PackagePath>calc_BMI.xbf</PackagePath>
-      <Modified>2023-05-16T17:34:22.242</Modified>
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\page_1.xbf">
+      <PackagePath>page_1.xbf</PackagePath>
+      <Modified>2023-05-30T17:55:54.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\calc_Tip.xbf">
-      <PackagePath>calc_Tip.xbf</PackagePath>
-      <Modified>2023-05-16T17:34:22.242</Modified>
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\page_3.xbf">
+      <PackagePath>page_3.xbf</PackagePath>
+      <Modified>2023-05-30T17:55:54.061</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\page_2.xbf">
+      <PackagePath>page_2.xbf</PackagePath>
+      <Modified>2023-05-30T17:55:54.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-05-16T17:34:22.242</Modified>
+      <Modified>2023-05-30T17:55:54.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2022-10-20T02:05:02.000</Modified>
+      <Modified>2022-10-20T01:05:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-05-16T17:11:58.686</Modified>
+      <Modified>2023-05-30T17:49:51.454</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jake\Documents\GitHub\CST-2104\Assignment1\Assignment1\bin\x86\Debug\Core\Assignment1.exe">
+    <AppxPackagedFile Include="C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\Assignment2\Assignment1\bin\x86\Debug\Core\Assignment1.exe">
       <PackagePath>Assignment1.exe</PackagePath>
-      <Modified>2023-05-16T17:34:22.736</Modified>
+      <Modified>2023-05-30T17:55:55.112</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

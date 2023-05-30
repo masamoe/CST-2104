@@ -20,9 +20,9 @@ namespace Assignment1
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class calc_Tip : Page
+    public sealed partial class page_2 : Page
     {
-        public calc_Tip()
+        public page_2()
         {
             this.InitializeComponent();
         }
@@ -30,20 +30,6 @@ namespace Assignment1
         private void btn_Home_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(MainPage));
-        }
-
-        private void btn_BMI_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(calc_BMI));
-        }
-
-        private void btn_Submit_Click(object sender, RoutedEventArgs e)
-        {
-            double bill = Convert.ToDouble(txt_Bill.Text);
-            double tip = Convert.ToDouble(txt_Tip.Text);
-            double total = bill + (bill * tip / 100);
-            out_Total.Text = "Total = " + total.ToString();
-
         }
     }
 }

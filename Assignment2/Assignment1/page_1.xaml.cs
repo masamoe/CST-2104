@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -20,9 +21,9 @@ namespace Assignment1
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class calc_BMI : Page
+    public sealed partial class page_1 : Page
     {
-        public calc_BMI()
+        public page_1()
         {
             this.InitializeComponent();
         }
@@ -32,17 +33,20 @@ namespace Assignment1
             this.Frame.Navigate(typeof(MainPage));
         }
 
-        private void btn_Tip_Click(object sender, RoutedEventArgs e)
+        private async void btn_Submit_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(calc_Tip));
-        }
-
-        private void btn_Submit_Click(object sender, RoutedEventArgs e)
-        {
-            double height = Convert.ToDouble(txt_Height.Text);
-            double weight = Convert.ToDouble(txt_Weight.Text);
-            double bmi = weight / (height * height) * 10000;
-            out_BMI.Text = "BMI = " + bmi.ToString();
+            string name = txt_name.Text;
+            string phone = txt_phone.Text;
+            string address = txt_address.Text;
+            string hobbies = list_hobbies.
+            MessageDialog showDialog = new MessageDialog("Name: "+name+" Phone: "+phone+" Address: "+address);
+            showDialog.Commands.Add(new UICommand("Close")
+            {
+                Id = 0
+            });
+            showDialog.DefaultCommandIndex = 0;
+            showDialog.CancelCommandIndex = 1;
+            await showDialog.ShowAsync();
         }
     }
 }

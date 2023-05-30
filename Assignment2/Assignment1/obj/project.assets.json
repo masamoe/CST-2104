@@ -10255,18 +10255,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jake\\.nuget\\packages\\": {},
+    "C:\\Users\\jake_\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake\\Documents\\GitHub\\CST-2104\\Assignment1\\Assignment1\\Assignment1.csproj",
+      "projectUniqueName": "C:\\Users\\jake_\\OneDrive\\Documents\\GitHub\\CST-2104\\Assignment2\\Assignment1\\Assignment2.csproj",
       "projectName": "Assignment1",
-      "projectPath": "C:\\Users\\Jake\\Documents\\GitHub\\CST-2104\\Assignment1\\Assignment1\\Assignment1.csproj",
-      "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake\\Documents\\GitHub\\CST-2104\\Assignment1\\Assignment1\\obj\\",
+      "projectPath": "C:\\Users\\jake_\\OneDrive\\Documents\\GitHub\\CST-2104\\Assignment2\\Assignment1\\Assignment2.csproj",
+      "packagesPath": "C:\\Users\\jake_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jake_\\OneDrive\\Documents\\GitHub\\CST-2104\\Assignment2\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -10274,7 +10274,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jake_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -38,7 +38,7 @@ namespace Assignment1
             string name = txt_name.Text;
             string phone = txt_phone.Text;
             string address = txt_address.Text;
-            string hobbies = list_hobbies.
+            
             MessageDialog showDialog = new MessageDialog("Name: "+name+" Phone: "+phone+" Address: "+address);
             showDialog.Commands.Add(new UICommand("Close")
             {

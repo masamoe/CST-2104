@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="860" Height="645">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Center" Margin="0,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Height="52"><Run Text="Page 3"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Margin="0,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Height="52"><Run Text="Page 3"/><LineBreak/><Run/></TextBlock>
 
     </Grid>
 </Page>

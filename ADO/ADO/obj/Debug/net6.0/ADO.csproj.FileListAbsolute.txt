@@ -1,0 +1,71 @@
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.csproj.AssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.staticwebassets.runtime.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.exe
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.deps.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\ADO.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\staticwebassets.build.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\staticwebassets.development.json
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\scopedcss\bundle\ADO.styles.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\scopedcss\projectbundle\ADO.bundle.scp.css
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\refint\ADO.dll
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.pdb
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ADO.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\codes 6.0\ADO\ADO\obj\Debug\net6.0\ref\ADO.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\appsettings.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.staticwebassets.runtime.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.exe
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.deps.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.runtimeconfig.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\ADO.pdb
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.csproj.AssemblyReference.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfoInputs.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.AssemblyInfo.cs
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CoreCompileInputs.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.RazorAssemblyInfo.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.RazorAssemblyInfo.cs
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets\msbuild.ADO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets\msbuild.build.ADO.props
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADO.props
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADO.props
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\scopedcss\bundle\ADO.styles.css
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\scopedcss\projectbundle\ADO.bundle.scp.css
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.csproj.CopyComplete
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\refint\ADO.dll
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.pdb
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ADO.genruntimeconfig.cache
+C:\Users\jake_\OneDrive\Documents\GitHub\CST-2104\ADO\ADO\obj\Debug\net6.0\ref\ADO.dll
